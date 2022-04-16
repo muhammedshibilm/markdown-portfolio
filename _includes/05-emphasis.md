@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I like to **Coding** and **Reading** and I have to work in _Google_ it's my Dream.
+
